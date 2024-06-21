@@ -1,5 +1,5 @@
-import {storyTitle, storyContent } from './story.js';
 import './style.css';
+import {storyTitle, storyContent } from './story.js';
 import {menuTitle, menuContent } from './menu.js';
 import { contactHeading,contactAddress } from './contact.js';
 
